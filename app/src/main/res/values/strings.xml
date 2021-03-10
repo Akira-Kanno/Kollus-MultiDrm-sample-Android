@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">kollusSample</string>
+    <string name="control_play">play</string>
+    <string name="control_stop">stop</string>
+    <string name="control_rate_up">r/u</string>
+    <string name="control_rate_down">r/d</string>
+    <string name="control_volume_up">v/u</string>
+    <string name="control_volume_down">v/d</string>
+    <string name="control_mute">mute</string>
+    <string name="control_un_mute">u/m</string>
+    <string name="control_rw">rw</string>
+    <string name="control_ff">ff</string>
+    <string name="control_restart">re</string>
+    <string name="control_app_to_app">AtoA</string>
+    <string name="control_send_to_lms">send</string>
+
+    <string name="test_play_video">Multi DRM Play</string>
+    <string name="test_download">Multi DRM Download</string>
+    <string name="test_contents_list">Contents List</string>
+
+    <string name="event_log">----- Event Log -----</string>
+</resources>
