@@ -21,6 +21,10 @@
 #-renamesourcefileattribute SourceFile
 
 
--dontwarn com.kollus.sdk.media.**
--keep class com.kollus.sdk.** { *; }
--libraryjars libs/kollusplayer_sdk-debug.aar
+#-dontwarn com.kollus.sdk.media.**
+#-keep class com.kollus.sdk.** { *; }
+#-libraryjars libs/kollusplayer_sdk-debug.aar
+
+-keep class com.pallycon.widevinelibrary.** {*;}
+-keep class com.whitecryption.skb.** {*;}
+-keep class com.kollus.sdk.** {*;}
